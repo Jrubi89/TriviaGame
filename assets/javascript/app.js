@@ -5,49 +5,49 @@ $(document).ready(function () {
         question: "Robin Scherbatsky was a famous Canadian teen pop star in the 1990s. What was the name of her character on the Canadian kids' show?", 
         choice: ["Robin", "Robin Glitter", "Sparkles", "Robin Sparkles"],
         answer: 3,
-		photo: "assets/images/Robin_Sparkles.jpg"
+		photo: "assests/images/Robin_Sparkles.jpg"
     }, 
     {
 	 	question: "What was the name of the Canadian kids' show Robin Sparkles starred on?", 
 		choice: ["Space Teens", "Teen Glow", "Speak Up Kids", "Coke"],
 		answer: 0,
-		photo: "assets/images/space.png"
+		photo: "assests/images/space.png"
 	 }, 
 	 {
 	 	question: "What is the name of Ted and Barney's legendary bar?", 
 		choice: ["Pieces", "Legendary", "Puzzles", "No last call" ],
 		answer: 2,
-		photo: "assets/images/Puzzles.jpg"
+		photo: "assests/images/Puzzles.jpg"
 	}, 
 	{
 		question: "Who did Barney end up marrying?", 
 		choice: ["Victoria", "Ashley", "Robin", "Lily" ],
 		answer: 2,
-		photo: "assets/images/Robin.jpg"
+		photo: "assests/images/Robin.jpg"
 	}, 
 	{
 		question: "Who did Barney think was his father?", 
 		choice: ["Regis Philbin", "He never knew", "Bob Stinson", "Bob Barker" ],
 		answer: 3,
-		photo: "assets/images/Barker.jpg"
+		photo: "assests/images/Barker.jpg"
 	}, 
 	{
 		question: "What did Ted want to name his kids?", 
 		choice: ["Iain and Sarah", "Luke and Penny", "Robin", "Luke and Leia" ],
 		answer: 3,
-		photo: "assets/images/herring.jpg"
+		photo: "assests/images/herring.jpg"
 	}, 
 	{
 		question: "Which character had a stripper doppelganger??", 
 		choice: ["Victoria", "Ashley", "Robin", "Lily" ],
 		answer: 3,
-		photo: "assets/images/doppelganger.jpg"
+		photo: "assests/images/doppelganger.jpg"
 	}, 
 	{
 		question: "The Bro Code is a set of rules for?", 
 		choice: ["male etiquette", "work performance", "Roomates", "Drinking" ],
 		answer: 0,
-		photo: "assets/images/etiquette.jpg"
+		photo: "assests/images/etiquette.jpg"
 	}];
 
 var correctCount = 0;
