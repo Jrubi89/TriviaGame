@@ -11,7 +11,7 @@ $(document).ready(function () {
 	 	question: "What was the name of the Canadian kids' show Robin Sparkles starred on?", 
 		choice: ["Space Teens", "Teen Glow", "Speak Up Kids", "Coke"],
 		answer: 0,
-		photo: "assests/images/space_teens.jpg"
+		photo: "assests/images/space_teens.png"
 	 }, 
 	 {
 	 	question: "What is the name of Ted and Barney's legendary bar?", 
@@ -47,7 +47,7 @@ $(document).ready(function () {
 		question: "The Bro Code is a set of rules for?", 
 		choice: ["male etiquette", "work performance", "Roomates", "Drinking" ],
 		answer: 0,
-		photo: "assests/images/etiquette.png"
+		photo: "assests/images/etiquette.jpg"
 	}];
 
 var correctCount = 0;
