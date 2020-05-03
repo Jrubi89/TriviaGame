@@ -1,12 +1,12 @@
 
 body {
-  background-image: url("../images/background..jpg");
-  background-size: cover;
-  font-family: 'Karla', sans-serif;
+  background-image: url("../images/background.jpg");
+  background-repeat: no-repeat;
+  background-position: top;
 }
 h1 {
   text-align: center;
-  color: black;
+  color: yellowgreen;
   font-weight: bolder;
   padding: 20px;
   font-size: 45px;
@@ -15,7 +15,7 @@ h1 {
 .wrapper {
    margin: 10px auto;
    background-color: rgba(255, 255, 255, 0.7);
-   border: 2px solid black;
+   border: 2px solid yellow;
    height: 500px;
    width: 60%;
    text-align: center;
