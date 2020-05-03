@@ -35,7 +35,7 @@ $(document).ready(function () {
 		question: "What did Ted want to name his kids?", 
 		choice: ["Iain and Sarah", "Luke and Penny", "Robin", "Luke and Leia" ],
 		answer: 3,
-		photo: "assests/images/herring.jpg"
+		photo: "assests/images/Luke_pennie.jpg"
 	}, 
 	{
 		question: "Which character had a stripper doppelganger??", 
